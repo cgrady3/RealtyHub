@@ -40,7 +40,7 @@ h1 {
 	font-size: 140pt;
 }
 
-h2{
+h2 {
 	font-size: 60pt;
 	text-align: center;
 	font-family: 'Jura', sans-serif;
@@ -92,6 +92,11 @@ h3 {
 	text-align: justify;
 }
 
+.contact-main {
+	margin-left: 35%;
+	margin-top: 20px;
+}
+
 #welcome {
 	text-align: center;
 	left: 50%;
@@ -114,17 +119,32 @@ h3 {
 	margin-top: 200px;
 }
 
-.fa-home{
+.fa-home {
 	left: 50%;
 	top: 50%;
 	position: absolute;
 	z-index: -1;
 }
 
-#introLetter{
+#introLetter {
 	font-size: 14pt;
 	font-family: 'Jura', sans-serif;
 	line-height: 25px;
+}
+
+.contact {
+	float: left;
+	margin: 30px;
+}
+
+.contact-link {
+	color: #777777;
+	text-decoration: none;
+}
+
+.contact-link:hover {
+	color: #bbb8b8;
+	text-decoration: none;
 }
 
 footer {
