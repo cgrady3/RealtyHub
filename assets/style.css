@@ -67,10 +67,10 @@ hr {
 }
 
 .navbar {
-	background-color: #77342b;
+	background-color: #dd4a48;
 	padding: 20px;
 	padding-right: 50px;
-	box-shadow: 5px 10px 14px #888888;
+	box-shadow: -1px 10px 10px #888888;
 	position: static;
 }
 
@@ -123,7 +123,7 @@ hr {
 #welcome {
 	text-align: center;
 	left: 50%;
-	color: #77342b;
+	color: #dd4a48;
 	font-family: 'Jura', sans-serif;
 	text-shadow: 0px 10px 18px #888888;
 	transition: ease-in .5s;
@@ -192,5 +192,5 @@ footer {
 	font-family: Arial, Helvetica, sans-serif;
 	padding: 8px;
 	font-size: 12px;
-	border-top: 4px solid #77342b;
+	border-top: 4px solid #dd4a48;
 }
