@@ -142,7 +142,7 @@ hr {
 	margin-top: 200px;
 }
 
-#introLetter {
+.introLetter {
 	font-size: 14pt;
 	font-family: 'Jura', sans-serif;
 	line-height: 25px;
